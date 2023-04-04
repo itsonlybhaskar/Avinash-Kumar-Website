@@ -1,0 +1,14 @@
+body{
+    background-color: aliceblue;
+}
+
+
+td{
+    padding: 20px;
+}
+
+
+.profilePicture{
+    border-radius: 100%;
+    width: 100px;
+}
